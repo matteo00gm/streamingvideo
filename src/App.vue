@@ -66,7 +66,7 @@ export default {
   name: 'App',
   data() {
     return {
-      showId: '',
+      showId: 94997,
       seasonId: 1,
       episodeId: 1,
       videoUrl: ''
